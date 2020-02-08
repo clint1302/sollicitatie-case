@@ -1,0 +1,110 @@
+.social-brothers-bg1 {
+  background-color: #F27623;
+}
+
+.allposts-block button {
+  margin-top: 40px;
+}
+
+.allposts-sec {
+  display: block;
+  height: 620px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.allposts-sec button {
+  display: block;
+  margin: 0 auto;
+  border-radius: 30px;
+  width: 300px;
+  font-weight: bold;
+  font-family: 'Proxima Nova';
+  text-transform: uppercase;
+}
+
+.allposts-item-card {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.allposts-item-card .view {
+  height: 120px;
+}
+
+.allposts-item-card .view img {
+  width: 100%;
+}
+
+.allposts-item-card .view .Ripple-parent {
+  height: inherit;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group input {
+  background-color: #f4f4f4;
+  border: none;
+  padding: 20px 15px;
+  border-radius: 0;
+}
+
+.form-group-marg {
+  margin-bottom: 20px;
+}
+
+.form-group-marg .custom-select {
+  background-color: #f4f4f4;
+  border-radius: 0;
+  border: none;
+}
+
+.bericht-cat {
+  font-weight: bold;
+  color: #404040;
+}
+
+.form-group label {
+  font-weight: bold;
+  color: #404040;
+}
+
+.form-group textarea {
+  background-color: #f4f4f4;
+  border: none;
+  padding: 20px 15px;
+  border-radius: 0;
+}
+
+.btn-custom-radius {
+  display: block;
+  margin: 0 auto;
+  border-radius: 30px;
+  /* width: 300px; */
+}
+
+.apost-img-sec {
+  display: block;
+  position: relative;
+}
+
+.apost-img-content {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: #fff;
+  padding: 8px;
+  /* background-color: rgba(0, 0, 0, 0.2); */
+}
+
+.apost-img-cont-date {
+  float: left;
+}
+
+.apost-img-cont-cat {
+  float: right;
+}

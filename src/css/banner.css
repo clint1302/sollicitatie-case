@@ -1,0 +1,34 @@
+.banner-image {
+  display: block;
+  position: relative;
+  width: calc(100%);
+  margin-bottom: 85px;
+  background-position: 50% center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: aquamarine;
+}
+
+.banner-image-overlay {
+  display: block;
+  width: 100%;
+  padding: 150px 0;
+  height: inherit;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.col-custom-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.banner-image img {
+  width: calc(40%);
+  padding: 0 30px;
+}
+
+@media only screen and (max-width: 550px) {
+  .banner-image img {
+    width: calc(100%);
+  }
+}

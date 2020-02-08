@@ -1,0 +1,23 @@
+body{
+  font-family: 'Proxima Nova', Georgia, sans-serif !important;
+  background-color: #f4f4f4;
+}
+
+.solli-case-section{
+  display: block;
+  min-height: 635px;
+  padding: 35px;
+  width: 100%;
+}
+
+.cust-row {
+  display: flex; /* equal height of the children */
+  margin-bottom: 60px;
+}
+
+.col {
+  background-color: #fff;
+}
+.col-custom-color{
+  background-color: #f4f4f4;
+}
